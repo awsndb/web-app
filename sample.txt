@@ -1,1 +1,2 @@
 sample file for github check-in to start mavern and jenkins
+developer b changed something and commited the changes
