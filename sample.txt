@@ -2,3 +2,4 @@ sample file for github check-in to start mavern and jenkins
 developer A added code for menu changes
 developer b changed something and commited the changes
 change are been done in dev branch
+I am learning git stash
